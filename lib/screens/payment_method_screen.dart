@@ -300,7 +300,7 @@ class _PaymentMethodScreenState extends State<PaymentMethodScreen> {
                   ],
                 ),
                 SizedBox(
-                  height: 20,
+                  height: 25,
                 ),
                 InkWell(
                   onTap: () {

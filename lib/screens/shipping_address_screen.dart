@@ -28,28 +28,28 @@ class ShippingAddressScreen extends StatelessWidget {
                       border: OutlineInputBorder(), labelText: "Full Name"),
                 ),
                 SizedBox(
-                  height: 20,
+                  height: 25,
                 ),
                 TextFormField(
                   decoration: InputDecoration(
                       border: OutlineInputBorder(), labelText: "Phone Number"),
                 ),
                 SizedBox(
-                  height: 20,
+                  height: 25,
                 ),
                 TextFormField(
                   decoration: InputDecoration(
                       border: OutlineInputBorder(), labelText: "address"),
                 ),
                 SizedBox(
-                  height: 20,
+                  height: 25,
                 ),
                 TextFormField(
                   decoration: InputDecoration(
                       border: OutlineInputBorder(), labelText: "City"),
                 ),
                 SizedBox(
-                  height: 20,
+                  height: 25,
                 ),
                 TextFormField(
                   decoration: InputDecoration(
@@ -57,7 +57,7 @@ class ShippingAddressScreen extends StatelessWidget {
                       labelText: "State/Province"),
                 ),
                 SizedBox(
-                  height: 20,
+                  height: 25,
                 ),
                 TextFormField(
                     decoration: InputDecoration(
@@ -65,7 +65,7 @@ class ShippingAddressScreen extends StatelessWidget {
                   labelText: "Zip code(postal code))",
                 )),
                 SizedBox(
-                  height: 20,
+                  height: 25,
                 ),
                 TextFormField(
                   decoration: InputDecoration(
